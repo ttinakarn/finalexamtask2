@@ -11,7 +11,7 @@
           </b-nav-item>
         </b-navbar-nav>
       </b-collapse>
-    </b-navbar>
+    </b-navbar><br>
     <router-view/>
   </div>
 </template>
