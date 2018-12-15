@@ -28,7 +28,7 @@ export default {
         {
           key: "unit_price",
           sortable: true,
-          variant: 'danger'
+          variant: 'secondary'
         }
       ]
     };

@@ -7,7 +7,7 @@
         <b-navbar-nav>
           <b-nav-item href="https://final-exam-task1.herokuapp.com/api/products" class="nav-link">Task 1</b-nav-item>
           <b-nav-item class="nav-link">
-            <router-link to="/task2"></router-link>Task 2
+            <router-link to="/"></router-link>Task 2
           </b-nav-item>
         </b-navbar-nav>
         <b-navbar-nav class="ml-auto">
